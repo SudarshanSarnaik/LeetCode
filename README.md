@@ -11,4 +11,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SudarshanSarnaik/LeetCode/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/SudarshanSarnaik/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 <!---LeetCode Topics End-->
